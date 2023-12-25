@@ -1,8 +1,8 @@
 <h2> description: Jenkins CICD with GitHub Integration <h2> 
 
 
-<p>  
-Run these commands:
+
+<p>  Run these commands:
 
 sudo apt install nodejs
 
