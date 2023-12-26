@@ -6,7 +6,7 @@
 <h2>Key Features:</h2>
 
 <h2>Continuous Integration (CI):</h2>
-<p>* Automatically trigger builds on code changes pushed to GitHub repositories.
-/* Validate code changes through automated builds to identify integration issues    early in the development process.</p>
+<p>* Automatically trigger builds on code changes pushed to GitHub repositories.</p>
+<p>* Validate code changes through automated builds to identify integration issues early in the development process.</p>
 
 
