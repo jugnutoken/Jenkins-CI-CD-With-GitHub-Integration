@@ -24,10 +24,16 @@
 
 
 <h1>Run these commands: </h1>
-sudo apt install nodejs
-sudo apt install npm
-npm install
-node app.js
-or Run by docker compose
-test
+<p>sudo apt install nodejs</p>
+
+<p>sudo apt install npm</p>
+
+<p>npm install</p>
+
+<p>node app.js</p>
+
+<p>or Run by docker compose</p>
+
+<p>test</p>
+
 
