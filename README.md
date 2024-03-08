@@ -20,7 +20,7 @@
 
 <h2>Pipeline as Code:</h2>
 <p>* Define and manage CI/CD pipelines using Jenkinsfile, allowing version control    and easy replication across projects.</p>
-<p>* Leverage Jenkins Pipeline DSL for flexibility and customization.</p>
+<p>* Leverage Jenkins Pipeline DSL for flexibility  and and customization.</p>
 
 
 <h1>Run these commands: </h1>
