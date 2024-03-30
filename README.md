@@ -12,7 +12,7 @@
 
 <h2>Continuous Delivery (CD):</h2>
 <p>* Enable automated deployment of applications to different environments (e.g., development, sstaging, production) based on predefined criteria.</p>
-<p>* Implement blue-green deployments or canary releases to minimize downtime and risk during updates.</p>
+<p>* Implement blue-green deployments or canary releases too minimize downtime and risk during updates.</p>
 
 <h2>GitHub Integration:</h2>
 <p>* Utilize GitHub webhooks to trigger Jenkins builds on code commits or pull requests.</p>
