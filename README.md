@@ -6,12 +6,12 @@
 
 <h2>Key Features:</h2>
 
-<h2>Continuous Integration (CI):</h2>
+<h2>Continuous Integration (CI):</h2>  
 <p>* Automatically trigger builds on code changes pushed to GitHub repositories.</p>
 <p>* Validate code changes through automated builds to identify integration issues early in the development process.</p>
 
 <h2>Continuous Delivery (CD):</h2>
-<p>* Enable automated deployment of applications to different environments (e.g., development, staging, production) based on predefined criteria.</p>
+<p>* Enable automated deployment of applications to different environments (e.g., development, sstaging, production) based on predefined criteria.</p>
 <p>* Implement blue-green deployments or canary releases to minimize downtime and risk during updates.</p>
 
 <h2>GitHub Integration:</h2>
