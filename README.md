@@ -1,7 +1,9 @@
 <h1> Project:  Jenkins CI/CD With GitHub Integration </h1> 
 
 <h2> Project Overview: </h2>
-<p>The Jenkins CI/CD with GitHub Integration  pproject aims to automate the software development lifecycle, enhancing efficiency, reliability, and collaboration among development teams. By integrating Jenkins with GitHub, the project facilitates continuous integration, automated testing, and seamless deployment.</p>
+<p>"The Jenkins CI/CD with GitHub Integration project is all about making software development easier. It sets up a system where the computer does a lot of the work for us, making everything faster, more reliable, and helping teams work together better.
+
+By connecting Jenkins with GitHub, the project makes it easy to check our code, test it automatically, and put it where it needs to go without any hiccups." </p>
 
 
 <h2>Key Features:</h2>
