@@ -9,8 +9,7 @@ By connecting Jenkins with GitHub, the project makes it easy to check our code, 
 <h2>Key Features:</h2>
 
 <h2>Continuous Integration (CI):</h2>  
-<p>* Automatically trigger builds on code changes pushed to GitHub repositories.</p>
-<p>* Validate code changes through automated builds to identify integration issues early in the development process.</p>
+<p>* When we make changes to our code and save them on GitHub, this system automatically starts building our code. It checks if everything works together smoothly, catching any problems early on before they become big issues. </p>
 
 <h2>Continuous Delivery (CD):</h2>
 <p>* Enable automated deployment of applications to different environments (e.g., development, sstaging, production) based on predefined criteria.</p>
