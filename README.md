@@ -18,8 +18,9 @@ By connecting Jenkins with GitHub, the project makes it easy to check our code, 
 <p>* We use a feature in GitHub called "webhooks" to tell Jenkins to start building our code whenever we make changes or suggest them (called pull requests). Also, we connect Jenkins with GitHub Actions, so we can use GitHub's own tools to manage our code building and deploying process. </p>
 
 <h2>Pipeline as Code:</h2>
-<p>* Define and manage CI/CD pipelines using Jenkinsfile, allowing version control    and easy replication across projects.</p>
-<p>* Leverage Jenkins Pipeline DSL for flexibility  and and customization.</p>
+<p>* Imagine you have a blueprint for building and delivering software. With a tool called Jenkinsfile, you can define and control this blueprint, making sure everything happens just the way you want it to, every time you work on a new project.</p>
+
+<p>* This blueprint is like a recipe, and Jenkins uses its special language (DSL) to make sure it's super flexible and can be customized to fit your project perfectly." .</p>
 
 
 <h1>Run these commands: </h1>
