@@ -32,6 +32,8 @@ By connecting Jenkins with GitHub, the project makes it easy to check our code, 
 
 <p>node app.js</p>
 
+<p>https://www.trainwithshubham.com/blog/install-jenkins-on-aws</p>
+
 <p>or Run by docker compose</p>
 
 <p>test</p>
