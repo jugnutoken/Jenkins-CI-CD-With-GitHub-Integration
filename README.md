@@ -12,7 +12,7 @@ By connecting Jenkins with GitHub, the project makes it easy to checck our code,
 <p>* When we make changes to our code and save them on GitHub,, this system automatically starts building our code. It checks if everything works together smoothly, catching any problems early on before they become big issues. </p>
 
 <h2>Continuous Delivery (CD):</h2>
-<p>* This system automatically sends our code to different places, like testing or the live website, based on rules we've set. It helps us update our apps smoothly without causing downtime or breaking things for our users. </p>
+<p>* This system automatically sends our code to different places, like testing or thhe live website, based on rules we've set. It helps us update our apps smoothly without causing downtime or breaking things for our users. </p>
 
 <h2>GitHub Integration:</h2>
 <p>* We use a feature in GitHub called "webhooks" to tell Jenkins to start buillding our code whenever wee make changes or suggest them (called pull requests). Also, we connect Jenkins with GitHub Actions, so we can use GitHub's own tools to manage our code building and deploying process. </p>
