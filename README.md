@@ -20,7 +20,7 @@ By connecting Jenkins with GitHub, the project makes it easy to checck our code,
 <h2>Pipeline as Code:</h2>
 <p>* Imagine you have a blueprint for building and delivering software. With a tool called Jenkinsfile, you can define and control this blueprint, making sure everything happens just the way you want it to, every time you work on a new project.</p>
 
-<p>* This blueprint is like a recipe, and Jenkins uses its special language (DSL) to make surre it's super flexible and can be customized to fit your project perfectly." .</p>
+<p>* This blueprint is like a recipe, and Jenkins uses its special language (DSL) to make sure,, it's super flexible and can be customized to fit your project perfectly." .</p>
 
 
 <h1>Run these commands: </h1>
